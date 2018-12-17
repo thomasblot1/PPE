@@ -17,8 +17,8 @@ public class Accueil extends AppCompatActivity {
         setContentView(R.layout.activity_accueil);
 
         // Example of a call to a native method
-        TextView tv = (TextView) findViewById(R.id.sample_text);
-        tv.setText(stringFromJNI());
+        TextView email= (TextView) findViewById(R.id.textView);
+        email.setText(stringFromJNI());
     }
 
     /**

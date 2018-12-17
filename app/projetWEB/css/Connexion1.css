@@ -1,0 +1,31 @@
+.co{
+	color:white;
+	font-size:25px;
+	
+}
+.center{
+	text-align:center;
+	padding:30px;
+	margin-left:100px;
+	margin-right:100px;
+}
+.inscription{
+	color:white;
+}
+.boutton{
+	
+	color:noir;
+}
+.boutonclass{
+	padding: 10px 35px;
+color:white;
+background-color:#E0581E;
+border-radius:30%;
+margin-left:25px;
+}
+body{
+	
+	background-repeat:no-repeat;
+	background-image:url("fondConnexion.jpg");
+    background-repeat: no-repeat;
+}

@@ -78,14 +78,14 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static int action_container = 0x7f0c0009;
-        public static int action_divider = 0x7f0c000b;
-        public static int action_image = 0x7f0c000c;
-        public static int action_text = 0x7f0c0012;
-        public static int actions = 0x7f0c0013;
-        public static int async = 0x7f0c0017;
-        public static int blocking = 0x7f0c0018;
-        public static int chronometer = 0x7f0c001c;
+        public static int action_container = 0x7f0c000b;
+        public static int action_divider = 0x7f0c000d;
+        public static int action_image = 0x7f0c000e;
+        public static int action_text = 0x7f0c0014;
+        public static int actions = 0x7f0c0015;
+        public static int async = 0x7f0c0019;
+        public static int blocking = 0x7f0c001a;
+        public static int chronometer = 0x7f0c001e;
         public static int forever = 0x7f0c0028;
         public static int icon = 0x7f0c002b;
         public static int icon_group = 0x7f0c002c;
@@ -102,8 +102,8 @@ public final class R {
         public static int tag_transition_group = 0x7f0c0062;
         public static int text = 0x7f0c0063;
         public static int text2 = 0x7f0c0064;
-        public static int time = 0x7f0c0068;
-        public static int title = 0x7f0c0069;
+        public static int time = 0x7f0c0067;
+        public static int title = 0x7f0c0068;
     }
     public static final class integer {
         private integer() {}
@@ -123,7 +123,7 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static int status_bar_notification_info_overflow = 0x7f150020;
+        public static int status_bar_notification_info_overflow = 0x7f150023;
     }
     public static final class style {
         private style() {}

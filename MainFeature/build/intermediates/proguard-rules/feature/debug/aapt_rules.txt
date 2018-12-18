@@ -1,4 +1,4 @@
-# Referenced at C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:16
+# Referenced at C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:14
 -keep class ppeteam.myapplication.MainFeature.Accueil { <init>(...); }
 # Referenced at C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\src\main\res\layout\activity_accueil.xml:2
 -keep class android.support.constraint.ConstraintLayout { <init>(...); }

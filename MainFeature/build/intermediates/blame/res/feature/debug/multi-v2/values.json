@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\thoma\\Documents\\GitHub\\PPElocal\\MainFeature\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\thoma\\Documents\\GitHub\\PPElocal\\MainFeature\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,154,106,201",
+                        "endColumns": "47,45,46,65",
+                        "endOffsets": "100,195,148,262"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,103,149,196",
+                        "endColumns": "47,45,46,65",
+                        "endOffsets": "98,144,191,257"
+                    }
+                }
+            ]
+        }
+    ]
+}

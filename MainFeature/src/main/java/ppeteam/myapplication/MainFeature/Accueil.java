@@ -19,8 +19,12 @@ public class Accueil extends AppCompatActivity {
         // Example of a call to a native method
         TextView email= (TextView) findViewById(R.id.Email);
         email.setText(stringFromJNI());
+
     }
 
+    public void Connexion(){
+
+    }
     /**
      * A native method that is implemented by the 'native-lib' native library,
      * which is packaged with this application.

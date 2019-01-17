@@ -4,6 +4,19 @@ ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifes
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0d6a002fb63a0932af170163f1329e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\14a9734d11682100be4b4643336a31cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\023aa96d6487827e24619a4ded4c4812\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d904042c3f850efe2a4b02192267c315\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\75268e0060ed2319f33547c726d65686\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aef47fd06ccb0987d75f2390f3a978d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f208685457e7e3b961406b2ed3a2c462\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5e93a9e1156be62deafda1d8662214d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6f4b5d1ad790f744040ac15607cd68d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8d184a932823312d06b2bbbdda2efd7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e97ebf12ec8ae5a87a2704c85a1b84cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f9efc21adce8ed5d2aa730a4449ce01\AndroidManifest.xml:17:1-22:12
+MERGED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:2:1-36:12
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:1-17:12
@@ -23,10 +36,16 @@ INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidMani
 		ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:5:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\14a9734d11682100be4b4643336a31cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\14a9734d11682100be4b4643336a31cf\AndroidManifest.xml:9:5-20
+MERGED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:13:5-34:19
+MERGED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:13:5-34:19
 	android:supportsRtl
 		ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:10:9-35
 	android:label
 		ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:8:9-41
+	android:debuggable
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:13:18-43
 	android:roundIcon
 		ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml:9:9-54
 	android:icon
@@ -45,6 +64,32 @@ uses-sdk
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0d6a002fb63a0932af170163f1329e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0d6a002fb63a0932af170163f1329e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\14a9734d11682100be4b4643336a31cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\14a9734d11682100be4b4643336a31cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\023aa96d6487827e24619a4ded4c4812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\023aa96d6487827e24619a4ded4c4812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d904042c3f850efe2a4b02192267c315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d904042c3f850efe2a4b02192267c315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\75268e0060ed2319f33547c726d65686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\75268e0060ed2319f33547c726d65686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aef47fd06ccb0987d75f2390f3a978d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aef47fd06ccb0987d75f2390f3a978d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f208685457e7e3b961406b2ed3a2c462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f208685457e7e3b961406b2ed3a2c462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5e93a9e1156be62deafda1d8662214d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5e93a9e1156be62deafda1d8662214d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6f4b5d1ad790f744040ac15607cd68d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6f4b5d1ad790f744040ac15607cd68d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8d184a932823312d06b2bbbdda2efd7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8d184a932823312d06b2bbbdda2efd7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e97ebf12ec8ae5a87a2704c85a1b84cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e97ebf12ec8ae5a87a2704c85a1b84cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f9efc21adce8ed5d2aa730a4449ce01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\thoma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f9efc21adce8ed5d2aa730a4449ce01\AndroidManifest.xml:20:5-44
+MERGED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:9:5-11:41
+MERGED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:9:5-11:41
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
 INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -55,3 +100,43 @@ INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidMani
 		INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
 		ADDED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\thoma\Documents\GitHub\PPElocal\base\src\main\AndroidManifest.xml
+activity#ppeteam.myapplication.MainFeature.Accueil
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:14:9-33:20
+	android:splitName
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:15:13-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:thomas.blot+data:pathPattern:/.*+data:scheme:https
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:17:13-27:29
+	android:order
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:17:28-45
+action#android.intent.action.VIEW
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:18:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:20:27-75
+category#android.intent.category.DEFAULT
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:21:27-73
+data
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:23:17-26:46
+	android:host
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:24:21-47
+	android:scheme
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:26:21-43
+	android:pathPattern
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:25:21-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from [:MainFeature] C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:31:27-74

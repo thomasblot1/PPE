@@ -3,3 +3,6 @@
 # Referenced at C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\src\main\res\layout\activity_accueil.xml:2
 -keep class android.support.constraint.ConstraintLayout { <init>(...); }
 
+# Referenced at C:\Users\thoma\Documents\GitHub\PPElocal\MainFeature\src\main\res\layout\activity_accueil.xml:9
+-keepclassmembers class * { *** Connexion(...); }
+

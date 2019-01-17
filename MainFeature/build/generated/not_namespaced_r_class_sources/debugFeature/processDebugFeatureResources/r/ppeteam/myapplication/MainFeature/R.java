@@ -12,7 +12,6 @@ public final class R {
     public static final int Connexion=0x80010000;
     public static final int Email=0x80010001;
     public static final int Mot_De_Passe=0x80010002;
-    public static final int textView=0x80010003;
   }
   public static final class layout {
     public static final int activity_accueil=0x80020000;
